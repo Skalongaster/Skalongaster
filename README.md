@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Skalongaster
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Skalongaster/Skalongaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
